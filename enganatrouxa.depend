@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569015686 source:c:\users\leonardosalgado\documents\projetos\enganatrouxa\main.c
+	<stdio.h>
+	<stdlib.h>
+
